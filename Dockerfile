@@ -1,4 +1,4 @@
-FROM eywalker/pytorch
+FROM eywalker/pytorch:cuda9.1
 LABEL maintainer="Edgar Y. Walker <edgar.walker@gmail.com>"
 
 # Export port for Jupyter Notebook
